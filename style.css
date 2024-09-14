@@ -1,0 +1,30 @@
+.bg__ {
+  background-color: black;
+}
+
+.hero_p {
+  max-width: 540px;
+}
+
+.nav__ {
+  display: flex ;
+  justify-content: space-between ;
+}
+@media screen and (max-width: 750px) {
+  .hero_ {
+    display: flex;
+    flex-direction: column-reverse;
+  }
+}
+
+.ul_img {
+}
+
+.li__ a {
+  color: white;
+}
+
+
+.w_ul {
+  list-style: none;
+}
