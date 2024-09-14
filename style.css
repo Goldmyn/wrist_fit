@@ -1,3 +1,4 @@
+/* Hero css */
 .bg__ {
   background-color: black;
 }
@@ -6,9 +7,11 @@
   max-width: 540px;
 }
 
+/* Nav css */
+
 .nav__ {
-  display: flex ;
-  justify-content: space-between ;
+  display: flex;
+  justify-content: space-between;
 }
 @media screen and (max-width: 750px) {
   .hero_ {
@@ -23,7 +26,6 @@
 .li__ a {
   color: white;
 }
-
 
 .w_ul {
   list-style: none;
